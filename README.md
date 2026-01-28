@@ -49,7 +49,9 @@ The site is automatically built and deployed to GitHub Pages when changes are pu
 
 ## Usage
 
-Once deployed, you can access the JupyterLite site at: `https://<username>.github.io/<repository-name>/`
+Once deployed, you can access the JupyterLite site at: `https://<username>.github.io/<repository-name>/` such as:
+
+https://ogrisel.github.io/jupyterlite-emscripten-forge-sandbox/
 
 Try the demo notebook in `content/demo.ipynb` to see the installed packages in action.
 
