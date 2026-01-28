@@ -25,7 +25,7 @@ To build the JupyterLite site locally:
 
 1. Install dependencies:
    ```bash
-   pip install jupyterlite-core jupyterlite-xeus
+   pip install jupyterlite jupyterlite-xeus
    ```
 
 2. Install micromamba (required for emscripten-forge packages):
