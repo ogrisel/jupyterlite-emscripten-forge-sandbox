@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# JupyterLite
+_output/
+dist/
+.jupyterlite.doit.db
